@@ -1,6 +1,10 @@
 # React_favicon
 ico, 24*24, using convertico.com
 
+demo:
+
+![icon](https://raw.githubusercontent.com/QueenieCplusplus/React_favicon/master/demo_crome.png)
+
 
 # Converter
 
