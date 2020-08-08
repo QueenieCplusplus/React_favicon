@@ -7,6 +7,11 @@ ico, 24*24, using convertico.com
 recommended converter from png to ico:  convertico.com
 
 
+# where to place ico file?
+
+dir called "root project/public/"
+
+
 # Where to implement?
 
 * Manifest.json
